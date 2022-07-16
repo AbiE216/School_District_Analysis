@@ -37,7 +37,7 @@ The school district summary remained largely the same with the exception of the 
    3. Huang High School
    4. Hernandez High School
    5. Johnson High School
- Thomas High School went from have the lowest math and reading percentages to being the second best performing school. 
+- Thomas High School went from have the lowest math and reading percentages to being the second best performing school. 
 ### Other Impacts
 #### The Impact on Math and Reading
 The average reading and math score both drastically increased, as seen in the initial impact section. By removing the 9th grade scores, each average rose about 30%. 
