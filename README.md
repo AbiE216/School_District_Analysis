@@ -5,8 +5,8 @@ Overview of the school district analysis: Explain the purpose of this analysis.
 ### Purpose 
 PyCity School District enlisted us with a list of tasks to provide a complete anyalysis of the different schools reading and math scores. Thomas High School Ninth Graders were omitted from the data based on possible academic dishonesty; as such the anaylsis needs to be performed again to ensure accurate results. 
 #### Tasks to complete
-1. Replace all reading and math scores for Thomas High School 9th graders with Nan within the data set.
-2. Repeat the School District Analysis with the following metrics:
+- Replace all reading and math scores for Thomas High School 9th graders with Nan within the data set.
+- Repeat the School District Analysis with the following metrics:
    i. The District Summary.
    ii. The School Summary.
    iii. The Top 5 and Bottom 5 performing schools: based on overall passing rate.
