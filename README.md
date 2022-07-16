@@ -18,7 +18,26 @@ PyCity School District enlisted us with a list of tasks to provide a complete an
 - Software: Python 3.6.1
     - Jupyter notebook
     - Pandas
-
-
+## School District Results
+###  The affect on District Summary and School Summary
+The school district summary remained largely the same with the exception of the score averages from Thomas High School rising dramatically by about 30% a piece. 
+ - Math initial average: 66.91 increased to 93.19
+ - Reading initial average: 69.66 increased to 97.02
+ - Overall initial average: 65.08 increased to 90.63
+### The Impact on the Top 5 and Bottom 5 Schools
+ - The top 5 schools: 
+   1.Cabrera High School
+   2.Thomas High School
+   3.Griffin High School
+   4.Wilson High School
+   5.Pena High School
+ - The bottom 5 schools:
+   1. Rodriguez High School
+   2. Figueroa High School
+   3. Huang High School
+   4. Hernandez High School
+   5. Johnson High School
+ Thomas High School went from have the lowest math and reading percentages to being the second best performing school. 
+### The Average Math scores per school 
   
    
