@@ -49,6 +49,8 @@ Small and Medium schools performed far better than large schools, which again, r
 When sorter by type, District and Charter, overall it appears that all charters performed about two times better than district schools. Because Thomas High is a charter, one would expect that if follow that trend, initially it did not, however, with corrected data it does. 
 
 ## Summary 
+There were clear data trends for the majority of schools, be it size, funding, or type of school. Prior to the results being removed from Thomas High School's 9th graders, the data had an outlier, however, with the correction made, all data falls into a neat line. Large District schools perform worse and recieve more funding than small charter schools perform better and recieve less funding. 
+Food for thought: if school funding is based on outcomes, perhaps there should be a secondary incentive to performing well. It makes sense that a poorly performing school with more students would need more funding, but perhaps schools that do well in testing should be given a separate reward to encourage teachers to be honest in there grading. 
 
   
    
