@@ -7,12 +7,12 @@ PyCity School District enlisted us with a list of tasks to provide a complete an
 #### Tasks to complete
  1. Replace all reading and math scores for Thomas High School 9th graders with Nan within the data set.
  2. Repeat the School District Analysis with the following metrics
-   a. The District Summary.
-   b. The School Summary.
-   c. The Top 5 and Bottom 5 performing schools: based on overall passing rate.
-   d. The average math score for each grade level from each school.
-   e. The average reading schore for each grade level from each school.
-   d. The scorea by school spending per student, by school size, and by school type.
+   1. The District Summary.
+   2. The School Summary.
+   3. The Top 5 and Bottom 5 performing schools: based on overall passing rate.
+   4. The average math score for each grade level from each school.
+   5. The average reading schore for each grade level from each school.
+   6. The scorea by school spending per student, by school size, and by school type.
 ### Resources
 - Data source: schools_complete.csv and students_complete.csv
 - Software: Python 3.6.1
