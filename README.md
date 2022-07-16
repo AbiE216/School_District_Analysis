@@ -26,18 +26,29 @@ The school district summary remained largely the same with the exception of the 
  - Overall initial average: 65.08 increased to 90.63
 ### The Impact on the Top 5 and Bottom 5 Schools
  - The top 5 schools: 
-   1.Cabrera High School
-   2.Thomas High School
-   3.Griffin High School
-   4.Wilson High School
-   5.Pena High School
- - The bottom 5 schools:
+   1. Cabrera High School
+   2. Thomas High School
+   3. Griffin High School
+   4. Wilson High School
+   5. Pena High School
+ - The bottom 5 schools: 
    1. Rodriguez High School
    2. Figueroa High School
    3. Huang High School
    4. Hernandez High School
    5. Johnson High School
  Thomas High School went from have the lowest math and reading percentages to being the second best performing school. 
-### The Average Math scores per school 
+### Other Impacts
+#### The Impact on Math and Reading
+The average reading and math score both drastically increased, as seen in the initial impact section. By removing the 9th grade scores, each average rose about 30%. 
+#### Scores and School Spending
+The change in scores, showed on clear trend the better a school performed the less funding it recieved, the was initially skewed by Thomas High but now there is a clear data trend. 
+#### Scores by School Size
+Small and Medium schools performed far better than large schools, which again, removing the scores from Thomas High, allowed the data to follow the progression of data rather than becoming an anomally.
+##### Scores between District and Charter
+When sorter by type, District and Charter, overall it appears that all charters performed about two times better than district schools. Because Thomas High is a charter, one would expect that if follow that trend, initially it did not, however, with corrected data it does. 
+
+## Summary 
+
   
    
