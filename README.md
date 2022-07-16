@@ -21,9 +21,9 @@ PyCity School District enlisted us with a list of tasks to provide a complete an
 ## School District Results
 ###  The affect on District Summary and School Summary
 The school district summary remained largely the same with the exception of the score averages from Thomas High School rising dramatically by about 30% a piece. 
- - Math initial average: 66.91 increased to 93.19
- - Reading initial average: 69.66 increased to 97.02
- - Overall initial average: 65.08 increased to 90.63
+ - Math initial average : 66.91% increased to 93.19%
+ - Reading initial average: 69.66% increased to 97.02%
+ - Overall initial average: 65.08% increased to 90.63%
 ### The Impact on the Top 5 and Bottom 5 Schools
  - The top 5 schools: 
    1. Cabrera High School
@@ -45,7 +45,7 @@ The average reading and math score both drastically increased, as seen in the in
 The change in scores, showed on clear trend the better a school performed the less funding it recieved, the was initially skewed by Thomas High but now there is a clear data trend. 
 #### Scores by School Size
 Small and Medium schools performed far better than large schools, which again, removing the scores from Thomas High, allowed the data to follow the progression of data rather than becoming an anomally.
-##### Scores between District and Charter
+#### Scores between District and Charter
 When sorter by type, District and Charter, overall it appears that all charters performed about two times better than district schools. Because Thomas High is a charter, one would expect that if follow that trend, initially it did not, however, with corrected data it does. 
 
 ## Summary 
